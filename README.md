@@ -11,3 +11,10 @@ Development site of ninesensorsshield
 Each sensor should be corresponded to each real sensor chip. 
 Name of sensors and measured values should be same name in all programming language. 
 
+* KXG03   - accelx,accely,accelz gyrox,gyroy,gyroz 
+* BM1422  - magx,magy,magz 
+* HTS22   - temperature, humidity
+* RPR0521 - distance visible,infrared 
+* BM1383  - pressure 
+* ML8511  - uv 
+
