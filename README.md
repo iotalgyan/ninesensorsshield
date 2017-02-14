@@ -14,7 +14,7 @@ Name of sensors and measured values should be same name in all programming langu
 * KXG03   - accelx,accely,accelz gyrox,gyroy,gyroz 
 * BM1422  - magx,magy,magz 
 * HTS22   - temperature, humidity
-* RPR0521 - distance visible,infrared 
+* RPR0521 - distance visibleIntensity,infraredIntensity 
 * BM1383  - pressure 
-* ML8511  - uv 
+* ML8511  - ultraVioletIntensity 
 
